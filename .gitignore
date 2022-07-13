@@ -1,0 +1,6 @@
+bin/
+data/
+images/
+obj/
+ArUco_Rotate.txt
+comparing_fiducial_markers.csproj
